@@ -2,6 +2,7 @@
 a java solution for the course scheduling case study from the book "An Integrated Approach to Software Engineering" by Pankaj Jalote
 
 **Problem Description**
+
 The computer science department in a university offers many courses every
 semester, which are taught by many instructors. These courses are scheduled
 based on some policy directions of the department. Currently the scheduling
